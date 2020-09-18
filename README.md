@@ -21,4 +21,8 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 ## Run JSON server
 
-json-server --watch db.json
+`json-server --watch db.json`
+
+## Deploy to Heroku
+
+`git push heroku master`
