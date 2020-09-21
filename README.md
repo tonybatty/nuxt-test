@@ -1,3 +1,6 @@
+https://nuxt-test-2.herokuapp.com/
+https://nuxt-test-zeta.vercel.app/
+
 # nuxt
 
 ## Build Setup
